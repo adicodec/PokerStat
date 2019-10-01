@@ -1,0 +1,2 @@
+# PokerStat
+Poker stats analyzer
